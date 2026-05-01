@@ -46,7 +46,6 @@ This project focuses on building a cybersecurity home lab that simulates a real-
 - Detecting real attack behavior using event logs and correlation
 - Working with Active Directory and identity-based attacks
 - Applying network segmentation and firewall rules
-- Writing firewall rules
 - Analyzing attacks and suspicious activity in logs
 
 ---
